@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector database storage
+chroma_db/
+
+# Scratch & logs
+scratch/
+*.log
